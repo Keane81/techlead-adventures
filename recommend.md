@@ -17,10 +17,10 @@
 + ["Путь Джедая". Максим Дорофеев](https://www.mann-ivanov-ferber.ru/catalog/product/put-dzedaia/)
 
 # Подкасты
-+ Три тимлида приходят в бар
-+ Бреслав и Ложечкин
-+ Кода Кода
-+ Podlodka Podcast
++ [Три тимлида заходят в бар](https://music.yandex.ru/album/30665235)
++ [Бреслав и Ложечкин](https://music.yandex.ru/album/25789910)
++ [Кода Кода (новые выпуски больше не выходят)](https://music.yandex.ru/album/13732143)
++ [Podlodka Podcast](https://music.yandex.ru/album/7570122)
 
 # Телеграм-каналы
 + [Тимлид Очевидность](https://t.me/general_it_talks)

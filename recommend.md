@@ -8,7 +8,6 @@
 
 ### Менеджмент
 + [Все начальники делают это](https://www.mann-ivanov-ferber.ru/catalog/product/27-problem-menedzhera/)  
-    мне не понравилось после первого прочтения, но кажется, что я на тот момент не дорос, поэтому оставляю тут
   
 ### GTD
 + [Джедайские техники](https://www.mann-ivanov-ferber.ru/books/dzhedajskie-texniki/)
@@ -24,9 +23,9 @@
 + Podlodka Podcast
 
 # Телеграм-каналы
-+ Тимлид Очевидность @general_it_talks
-+ TeamLead Good Reads @leadgr
-+ Жиза ИТ руководителя @zhizaIT
-+ Мир глазами другого человека @yetanotherworld
-+ Кода Кода @kodakodacast
-+ Нестыдная Фасилитация @no_shame_facilitation
++ [Тимлид Очевидность](https://t.me/general_it_talks)
++ [Кода Кода](https://t.me/kodakodacast)
++ [Жиза ИТ руководителя](https://t.me/zhizaIT)
++ [TeamLead Good Reads](https://t.me/leadgr)
++ [Мир глазами другого человека](https://t.me/yetanotherworld)
++ [Нестыдная Фасилитация](https://t.me/no_shame_facilitation)

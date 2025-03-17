@@ -4,10 +4,10 @@
   
 ### Командность
 + ["Пять пороков команды". Патрик Ленсиони](https://www.mann-ivanov-ferber.ru/books/biznesroman/arshipfable/)
-+ ["Лидер и племя". Дэйв Логан, Джон Кинг, Хэли Фишер-Райт](https://www.mann-ivanov-ferber.ru/books/lider-i-plemya/)
-+ ["Скрам: Революционный метод управления проектами". Джефф Сазерленд](https://www.mann-ivanov-ferber.ru/catalog/product/scrum/)
-+ ["Драйв. Что на самом деле нас мотивирует". Дэниел Пинк](https://alpinabook.ru/catalog/book-drayv/)
 + ["Доставляя счастье". Тони Шей](https://www.mann-ivanov-ferber.ru/catalog/product/deliveringhappiness/)
++ ["Скрам: Революционный метод управления проектами". Джефф Сазерленд](https://www.mann-ivanov-ferber.ru/catalog/product/scrum/)
++ ["Лидер и племя". Дэйв Логан, Джон Кинг, Хэли Фишер-Райт](https://www.mann-ivanov-ferber.ru/books/lider-i-plemya/)
++ ["Драйв. Что на самом деле нас мотивирует". Дэниел Пинк](https://alpinabook.ru/catalog/book-drayv/)
 
 ### Менеджмент
 + ["Все начальники делают это". Брюс Тулган](https://www.mann-ivanov-ferber.ru/catalog/product/27-problem-menedzhera/)  

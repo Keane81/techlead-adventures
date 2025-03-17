@@ -1,20 +1,20 @@
 # Книги
+### Общие
++ ["Антихрупкость. Как извлечь выгоду из хаоса". Нассим Николас Талеб](https://www.litres.ru/book/nassim-nikolas-taleb/antihrupkost-kak-izvlech-vygodu-iz-haosa-6564681/)
+  
 ### Командность
-+ [Пять пороков команды](https://www.mann-ivanov-ferber.ru/books/biznesroman/arshipfable/)
-+ [Лидер и племя](https://www.mann-ivanov-ferber.ru/books/lider-i-plemya/)
-+ [Скрам: Революционный метод управления проектами](https://www.mann-ivanov-ferber.ru/catalog/product/scrum/)
-+ [Драйв. Что на самом деле нас мотивирует](https://alpinabook.ru/catalog/book-drayv/)
-+ [Доставляя счастье](https://www.mann-ivanov-ferber.ru/catalog/product/deliveringhappiness/)
++ ["Пять пороков команды". Патрик Ленсиони](https://www.mann-ivanov-ferber.ru/books/biznesroman/arshipfable/)
++ ["Лидер и племя". Дэйв Логан, Джон Кинг, Хэли Фишер-Райт](https://www.mann-ivanov-ferber.ru/books/lider-i-plemya/)
++ ["Скрам: Революционный метод управления проектами". Джефф Сазерленд](https://www.mann-ivanov-ferber.ru/catalog/product/scrum/)
++ ["Драйв. Что на самом деле нас мотивирует". Дэниел Пинк](https://alpinabook.ru/catalog/book-drayv/)
++ ["Доставляя счастье". Тони Шей](https://www.mann-ivanov-ferber.ru/catalog/product/deliveringhappiness/)
 
 ### Менеджмент
-+ [Все начальники делают это](https://www.mann-ivanov-ferber.ru/catalog/product/27-problem-menedzhera/)  
++ ["Все начальники делают это". Брюс Тулган](https://www.mann-ivanov-ferber.ru/catalog/product/27-problem-menedzhera/)  
   
 ### GTD
-+ [Джедайские техники](https://www.mann-ivanov-ferber.ru/books/dzhedajskie-texniki/)
-+ [Путь Джедая](https://market.yandex.ru/product--mann-ivanov-i-ferber-put-dzhedaia-poisk-sobstvennoi-metodiki-produktivnosti-dorofeev-m/)
-
-### Общие
-+ [Антихрупкость. Как извлечь выгоду из хаоса](https://www.litres.ru/book/nassim-nikolas-taleb/antihrupkost-kak-izvlech-vygodu-iz-haosa-6564681/)
++ ["Джедайские техники". Максим Дорофеев](https://www.mann-ivanov-ferber.ru/books/dzhedajskie-texniki/)
++ ["Путь Джедая". Максим Дорофеев](https://www.mann-ivanov-ferber.ru/catalog/product/put-dzedaia/)
 
 # Подкасты
 + Три тимлида приходят в бар

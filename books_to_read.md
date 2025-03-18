@@ -10,6 +10,7 @@
 ### Психология
 - [X] ["Думай медленно... решай быстро". Даниэль Канеман](https://www.litres.ru/book/daniel-kaneman/dumay-medlenno-reshay-bystro-6444517/)
 - [X] ["Ненасильственное общение. Язык Жизни". Маршалл Розенберг](https://www.litres.ru/book/marshall-rozenberg/nenasilstvennoe-obschenie-yazyk-zhizni-39962476/)
+- [ ] ["Шум. Несовершенство человеческих суждений". Даниэль Канеман, Оливье Сибони](https://www.litres.ru/book/daniel-kaneman/shum-nesovershenstvo-chelovecheskih-suzhdeniy-66847643/)
 
 ### Управление проектами
 - [X] ["Скрам: Революционный метод управления проектами". Джефф Сазерленд](https://www.mann-ivanov-ferber.ru/catalog/product/scrum/)

@@ -7,6 +7,9 @@
 + ["Доставляя счастье". Тони Шей](https://www.mann-ivanov-ferber.ru/catalog/product/deliveringhappiness/)
 + ["Антихрупкость. Как извлечь выгоду из хаоса". Нассим Николас Талеб](https://www.litres.ru/book/nassim-nikolas-taleb/antihrupkost-kak-izvlech-vygodu-iz-haosa-6564681/)
 
+### Психология
++ ["Думай медленно... решай быстро". Даниэль Канеман](https://www.litres.ru/book/daniel-kaneman/dumay-medlenno-reshay-bystro-6444517/)
+
 ### Управление проектами
 + ["Скрам: Революционный метод управления проектами". Джефф Сазерленд](https://www.mann-ivanov-ferber.ru/catalog/product/scrum/)
 

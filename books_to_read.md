@@ -6,11 +6,13 @@
 - [X] ["Антихрупкость. Как извлечь выгоду из хаоса". Нассим Николас Талеб](https://www.litres.ru/book/nassim-nikolas-taleb/antihrupkost-kak-izvlech-vygodu-iz-haosa-6564681/)
 - [ ] ["Никаких правил. Уникальная культура Netflix". Рид Хастингс, Эрин Мейер](https://www.mann-ivanov-ferber.ru/catalog/product/nikakih-pravil/)
 - [ ] ["Спроси маму: Как общаться с клиентами и подтвердить правоту своей бизнес-идеи..". Роб Фитцпатрик](https://www.litres.ru/book/rob-fitcpatrik/sprosi-mamu-kak-obschatsya-s-klientami-i-podtverdit-pravotu-23963007/)
+- [ ] ["От хорошего к великому". Джим Коллинз](https://www.mann-ivanov-ferber.ru/catalog/product/good-great/)
 
 ### Психология
 - [X] ["Думай медленно... решай быстро". Даниэль Канеман](https://www.litres.ru/book/daniel-kaneman/dumay-medlenno-reshay-bystro-6444517/)
 - [X] ["Ненасильственное общение. Язык Жизни". Маршалл Розенберг](https://www.litres.ru/book/marshall-rozenberg/nenasilstvennoe-obschenie-yazyk-zhizni-39962476/)
 - [ ] ["Шум. Несовершенство человеческих суждений". Даниэль Канеман, Оливье Сибони](https://www.litres.ru/book/daniel-kaneman/shum-nesovershenstvo-chelovecheskih-suzhdeniy-66847643/)
+- [ ] ["Искусство спора". Сергей Поварнин](https://www.litres.ru/book/sergey-povarnin/iskusstvo-spora-kak-chitat-knigi-65566776/)
 
 ### Управление проектами
 - [X] ["Скрам: Революционный метод управления проектами". Джефф Сазерленд](https://www.mann-ivanov-ferber.ru/catalog/product/scrum/)

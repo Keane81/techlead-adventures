@@ -17,6 +17,7 @@
 ### Управление проектами
 - [X] ["Скрам: Революционный метод управления проектами". Джефф Сазерленд](https://www.mann-ivanov-ferber.ru/catalog/product/scrum/)
 - [ ] ["Оргуправленческое мышление: идеология, методология, технология". Георгий Щедровицкий](https://www.artlebedev.ru/izdal/orgupravlencheskoe-myshlenie-2018/)
+- [ ] ["Канбан Метод. Базовая практика". Алексей Пименов](https://www.litres.ru/book/aleksey-pimenov-32907598/kanban-metod-bazovaya-praktika-70276618/)
 
 ### Лидерство и командность
 - [X] ["Пять пороков команды". Патрик Ленсиони](https://www.mann-ivanov-ferber.ru/books/biznesroman/arshipfable/)

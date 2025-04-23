@@ -28,7 +28,7 @@
 ## Подкасты
 + [Три тимлида заходят в бар](https://music.yandex.ru/album/30665235)
 + [Бреслав и Ложечкин](https://music.yandex.ru/album/25789910)
-+ [Кода Кода (новые выпуски больше не выходят)](https://music.yandex.ru/album/13732143)
++ [Кода Кода](https://music.yandex.ru/album/13732143)
 + [Podlodka Podcast](https://music.yandex.ru/album/7570122)
 
 <br>

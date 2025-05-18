@@ -32,8 +32,8 @@
 - [X] ["Драйв. Что на самом деле нас мотивирует". Дэниел Пинк](https://alpinabook.ru/catalog/book-drayv/)
 - [ ] ["Как делать полезные заметки". Зонке Аренс](https://www.mann-ivanov-ferber.ru/catalog/product/kak-delat-poleznye-zametki/)
 - [ ] ["Полное погружение. Как плавать лучше, быстрее и легче". Терри Лафлин, Джон Делвз](https://www.mann-ivanov-ferber.ru/catalog/product/totalimmersion/)
-- [ ] "Эффективное чтение". Рустам Агамалиев
-- [ ] ["Интеллект-карты". Тони Бьюзен](https://www.mann-ivanov-ferber.ru/catalog/product/intellekt-kartyi/)
+- [X] ["Эффективное чтение". Рустам Агамалиев](https://www.litres.ru/book/rustam-agamaliev/effektivnoe-chtenie-tehniki-nechteniya-dlya-professionaln-71838481)
+- [X] ["Интеллект-карты". Тони Бьюзен](https://www.mann-ivanov-ferber.ru/catalog/product/intellekt-kartyi/)
 - [ ] ["Пиши, сокращай 2025: Как создавать сильный текст". Максим Ильяхов, Людмила Сарычева](https://www.litres.ru/book/maksim-ilyahov/pishi-sokraschay-2025-kak-sozdavat-silnyy-tekst-70193008/)
 
 ### Техника

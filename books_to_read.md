@@ -30,7 +30,6 @@
 - [X] ["Джедайские техники". Максим Дорофеев](https://www.mann-ivanov-ferber.ru/books/dzhedajskie-texniki/)
 - [X] ["Путь Джедая". Максим Дорофеев](https://www.mann-ivanov-ferber.ru/catalog/product/put-dzedaia/)
 - [X] ["Драйв. Что на самом деле нас мотивирует". Дэниел Пинк](https://alpinabook.ru/catalog/book-drayv/)
-- [ ] ["Как делать полезные заметки". Зонке Аренс](https://www.mann-ivanov-ferber.ru/catalog/product/kak-delat-poleznye-zametki/)
 - [ ] ["Полное погружение. Как плавать лучше, быстрее и легче". Терри Лафлин, Джон Делвз](https://www.mann-ivanov-ferber.ru/catalog/product/totalimmersion/)
 - [X] ["Эффективное чтение". Рустам Агамалиев](https://www.litres.ru/book/rustam-agamaliev/effektivnoe-chtenie-tehniki-nechteniya-dlya-professionaln-71838481)
 - [X] ["Интеллект-карты". Тони Бьюзен](https://www.mann-ivanov-ferber.ru/catalog/product/intellekt-kartyi/)
@@ -39,4 +38,3 @@
 ### Техника
 - [ ] ["System Design. Подготовка к сложному интервью". Алекс Сюй](https://www.litres.ru/book/aleks-suy/system-design-podgotovka-k-slozhnomu-intervu-67193183/)
 - [ ]  ["100 ошибок Go и как их избежать". Тейва Харшани](https://www.litres.ru/book/teyva-harshani/100-oshibok-go-i-kak-ih-izbezhat-epub-69932935/)
-- [ ]  ["Как устроен ChatGPT". Стивен Вольфрам](https://www.litres.ru/book/stiven-volfram/kak-ustroen-chatgpt-polnoe-pogruzhenie-v-principy-raboty-i-70890610/)

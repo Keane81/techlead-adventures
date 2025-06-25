@@ -7,6 +7,7 @@
 - [ ] ["Никаких правил. Уникальная культура Netflix". Рид Хастингс, Эрин Мейер](https://www.mann-ivanov-ferber.ru/catalog/product/nikakih-pravil/)
 - [ ] ["Спроси маму: Как общаться с клиентами и подтвердить правоту своей бизнес-идеи..". Роб Фитцпатрик](https://www.litres.ru/book/rob-fitcpatrik/sprosi-mamu-kak-obschatsya-s-klientami-i-podtverdit-pravotu-23963007/)
 - [ ] ["От хорошего к великому". Джим Коллинз](https://www.mann-ivanov-ferber.ru/catalog/product/good-great/)
+- [ ] ["Системное мышление". Донелла Медоуз](https://www.litres.ru/book/donella-medouz/azbuka-sistemnogo-myshleniya-33388675/)
 
 ### Психология
 - [X] ["Думай медленно... решай быстро". Даниэль Канеман](https://www.litres.ru/book/daniel-kaneman/dumay-medlenno-reshay-bystro-6444517/)

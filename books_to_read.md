@@ -39,3 +39,4 @@
 ### Техника
 - [ ] ["System Design. Подготовка к сложному интервью". Алекс Сюй](https://www.litres.ru/book/aleks-suy/system-design-podgotovka-k-slozhnomu-intervu-67193183/)
 - [ ]  ["100 ошибок Go и как их избежать". Тейва Харшани](https://www.litres.ru/book/teyva-harshani/100-oshibok-go-i-kak-ih-izbezhat-epub-69932935/)
+- [ ]  ["Как устроен ChatGPT". Стивен Вольфрам](https://www.litres.ru/book/stiven-volfram/kak-ustroen-chatgpt-polnoe-pogruzhenie-v-principy-raboty-i-70890610/)

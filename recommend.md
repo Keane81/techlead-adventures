@@ -22,6 +22,7 @@
 + ["Джедайские техники". Максим Дорофеев](https://www.mann-ivanov-ferber.ru/books/dzhedajskie-texniki/)
 + ["Путь Джедая". Максим Дорофеев](https://www.mann-ivanov-ferber.ru/catalog/product/put-dzedaia/)
 + ["Драйв. Что на самом деле нас мотивирует". Дэниел Пинк](https://alpinabook.ru/catalog/book-drayv/)
++ ["Атомные привычки". Джеймс Клир](https://www.litres.ru/book/dzheyms-klir/atomnye-privychki-kak-priobresti-horoshie-privychki-i-izbavit-48514275/)
 
 <br>
 

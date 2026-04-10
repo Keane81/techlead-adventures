@@ -35,7 +35,7 @@
 - [X] ["Эффективное чтение". Рустам Агамалиев](https://www.litres.ru/book/rustam-agamaliev/effektivnoe-chtenie-tehniki-nechteniya-dlya-professionaln-71838481)
 - [X] ["Интеллект-карты". Тони Бьюзен](https://www.mann-ivanov-ferber.ru/catalog/product/intellekt-kartyi/)
 - [X] ["Пиши, сокращай 2025: Как создавать сильный текст". Максим Ильяхов, Людмила Сарычева](https://www.litres.ru/book/maksim-ilyahov/pishi-sokraschay-2025-kak-sozdavat-silnyy-tekst-70193008/)
-- [ ] ["Руководство астронавта по жизни на Земле". Кристофер Хэдфилд](https://www.litres.ru/book/kristofer-hedfild/rukovodstvo-astronavta-po-zhizni-na-zemle-chemu-nauchili-9363292/)
+- [X] ["Руководство астронавта по жизни на Земле". Кристофер Хэдфилд](https://www.litres.ru/book/kristofer-hedfild/rukovodstvo-astronavta-po-zhizni-na-zemle-chemu-nauchili-9363292/)
 
 ### Философия
 - [ ] ["Наедине с собой". Марк Аврелий](https://www.litres.ru/book/mark-avreliy-antonin/naedine-s-soboy-48884382/)

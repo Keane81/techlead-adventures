@@ -26,6 +26,7 @@
 - [X] ["Лидер и племя". Дэйв Логан, Джон Кинг, Хэли Фишер-Райт](https://www.mann-ivanov-ferber.ru/books/lider-i-plemya/)
 - [X] ["Все начальники делают это". Брюс Тулган](https://www.mann-ivanov-ferber.ru/catalog/product/27-problem-menedzhera/)
 - [ ] ["Радикальная прямота. Как управлять людьми, не теряя человечности". Ким Скотт](https://www.litres.ru/book/kim-skott/radikalnaya-pryamota-kak-upravlyat-ludmi-ne-teryaya-chelovechnos-50288652)
+- [ ] ["Engineering Leadership: The Hard Parts"](https://learning.oreilly.com/library/view/engineering-leadership-the/9781098175627/)
 
 ### Мотивация и личностный рост
 - [X] ["Джедайские техники". Максим Дорофеев](https://www.mann-ivanov-ferber.ru/books/dzhedajskie-texniki/)
